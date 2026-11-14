@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.vortz.rpgzlycanites.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "BaseCreatureEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
